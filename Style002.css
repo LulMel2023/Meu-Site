@@ -1,0 +1,64 @@
+
+p{
+
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 300;
+    text-align: center;
+    font-size: 200%;
+    font-style: italic;
+    color: rgb(15, 14, 14);
+    font-family: cursive;       
+}
+
+h1 {
+
+    font-family: Garamond;
+    text-align: center;
+    color: rgba(243, 20, 157, 0.945);
+    font-size: 500%;
+}
+h3 {
+
+    text-align: center;
+    background-color: rgb(255, 127, 223);
+    width: 100px center;
+    height: 100px center;
+    border-color: rgb(128, 21, 21);
+    box-shadow: inset 13, 13,13,13;
+    font-size: 200%;   
+}
+
+video {
+
+    display: block;
+    margin: auto;
+    width: 500px;
+    height: 500px;
+}
+
+iframe {
+
+    display: block;
+    margin: auto;
+    width: 500px;
+    height: 500px;
+}
+
+body {
+
+    background-color: rgb(250, 228, 231);
+  } 
+  nav {
+    
+    font-size: 30px;
+} 
+@media only screen and (max-width: 480px) { 
+    body {
+        font-size: 12px;
+    }
+
+    }
+@media only screen and (min-resolution: 300dpi){
+    /*css for high resolution screens*/
+}
+  

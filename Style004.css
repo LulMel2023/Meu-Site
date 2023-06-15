@@ -1,0 +1,33 @@
+
+
+h3 {
+
+    text-align: center;
+    background-color: rgb(255, 127, 223);
+    width: 100px center;
+    height: 100px center;
+    border-color: rgb(128, 21, 21);
+    box-shadow: inset 13, 13,13,13;
+    font-size: 200%;   
+}
+
+pre {
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(173, 6, 56);
+    text-align: justify;
+    margin-left: 150px;
+   
+}
+nav {
+    
+    font-size: 30px;
+}
+
+R1 {
+
+    font-size: 15px;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+  

@@ -1,0 +1,77 @@
+
+
+p {
+    text-align: center;
+    font-size: 16px;
+    color: rgba(247, 22, 172, 0.904);
+    font-weight: bold;
+    opacity: 0,5; 
+}
+
+    h1 {
+
+        font-family: Garamond;
+        text-align: center;
+        color: rgb(202, 39, 94);
+        font-size: 400%;
+    }
+
+    h4 {
+
+        text-align: center;
+    }
+
+        .fonte {
+
+            font-family: 'Delicious Handrawn', cursive ;
+        }
+
+        h3 {
+
+            text-align: center;
+            background-color: aquamarine;
+            width: 100px center;
+            height: 100px center;
+            border-color: rgb(128, 21, 21);
+            box-shadow: inset 13, 13,13,13;   
+        }
+        
+        h2 {
+
+            text-align: center;
+            color: rgb(136, 6, 82);
+            font-size: 300%;   
+        }
+    
+        img {
+
+            display: block;
+            margin: auto;
+            
+              }
+
+          body {
+
+            background-color: rgb(250, 228, 231);
+          }
+          nav {
+    
+            font-size: 30px;
+        }       
+        @media only screen and (max-width: 480px) { 
+            body {
+                font-size: 12px;
+            }
+        
+            }
+        @media only screen and (min-resolution: 300dpi){
+            /*css for high resolution screens*/
+        }
+           
+
+              
+        
+              
+
+        
+        
